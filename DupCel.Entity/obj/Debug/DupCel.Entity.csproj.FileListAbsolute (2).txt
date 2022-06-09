@@ -1,0 +1,30 @@
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.Entity\obj\Debug\DupCel.Entity.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+G:\MeusProjetos\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+G:\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+G:\MeusProjetos\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.Entity\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.Entity\obj\Debug\DupCel.Entity.pdb

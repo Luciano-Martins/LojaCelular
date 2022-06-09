@@ -1,0 +1,109 @@
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.View.exe
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.View.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\DupCel.View.frmPrincipal.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\DupCel.View.exe
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.Model.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.Entity.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel.View\DupCel.View\bin\Debug\DupCel.Model.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.dll
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.pdb
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmCliente.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmServico.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmProduto.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmVenda.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.exe
+C:\Users\Mandioca\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.exe
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.dll
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.pdb
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmCliente.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmServico.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmProduto.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmVenda.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmLogin.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmPrincipal.resources
+C:\Users\Administrador\Desktop\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmRelacaoVendas.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.exe
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.dll
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.dll
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.pdb
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmCliente.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmLogin.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmPrincipal.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmRelacaoVendas.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmServico.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmProduto.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmVenda.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MeusProjetos\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.exe
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.dll
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.pdb
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmCliente.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmLogin.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmPrincipal.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmRelacaoVendas.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmServico.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmProduto.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmVenda.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmUsuario.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Entity.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\bin\Debug\DupCel.Model.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmCliente.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmLogin.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmRelacaoVendas.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmServico.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmProduto.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmUsuario.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.frmVenda.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\DupCel.View.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\DupCel_Solution\DupCel.View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\DupCel_Solution\DupCel.View\bin\Debug\DupCel.View.exe.config
